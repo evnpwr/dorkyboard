@@ -1,0 +1,1 @@
+Dorkyboard is a keybaord with an ISO-style enter key and an otherwise ANSI-like layout. It has a number pad. I know number pads aren't cool, but hey, I'm a dork. 
